@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">client_app</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_connect">Connect</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="title_activity_display_msg">DisplayMsgActivity</string>
+    <string name="title_activity_bluethooth_client">BluethoothClient</string>
+    <string name="none_found">No Devices Found</string>
+
+
+</resources>
